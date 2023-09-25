@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <a href="https://www.welcome-aeon.com/">
+            <img src="https://www.welcome-aeon.com/img/common/icon_aeon.png" alt="AEON">
+        </a>
+        <p>
+            Languange
+        </p>
+    </header>
+    <div class="Header-inner">
+        <nav class="Menu pc_only">
+            <ul>
+                <li>
+                    <a href="https://www.welcome-aeon.com/storesearch/">Store Finder</a>
+                </li>
+                <li>
+                    <a href="https://www.welcome-aeon.com/coupon/">Coupon</a>
+                </li>
+                <li>
+                    <a href="https://www.welcome-aeon.com/service/">Service</a>
+                </li>
+                <li>
+                    <a href="https://www.aeon.info/en/aboutaeon/?bannerid=om71_eCSVWTXr&exmid=TUP">Corporate Info</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+    <div class="banner">
+        <a href="">
+            <img src="https://www.welcome-aeon.com/img/index/slide03_sp.jpg" alt="" width="250">
+        </a>
+        <a href="">
+            <img src="https://www.welcome-aeon.com/img/index/slide01_sp.jpg" alt="" width="250" >
+        </a>
+        <a href="">
+            <img src="https://www.welcome-aeon.com/img/index/tax_rule_sp.jpg" alt="" width="250">
+        </a>
+        <div>
+        <h1>Stores Near You</h1>
+        </div>
+        <div>
+            <h3>No Data</h3>
+        </div>
+    </div>
+    <footer>
+        <div class="sp_only">
+          <div class="sticky_footer">
+            <a href="https://www.welcome-aeon.com/coupon/">
+              <p>Coupon</p>
+            </a>
+            <a href="https://www.welcome-aeon.com/storesearch/">
+              <p>Store Finder</p>
+            </a>
+          </div>
+        </div>
+     
+        <div class="back_top">
+          <img src="https://www.welcome-aeon.com/img/common/icn_backtop.jpg" alt="back to top" width="20">
+        </div>
+        <div class="footer-inner">
+          <div class="footer-logo">
+            <a href="https://www.aeon.info/en/" target="_blank">
+              <img src="https://www.welcome-aeon.com/img/common/img-flogo.gif" alt="AEON">
+            </a>
+            <div class="logo-text">
+              <p>AEON Square</p>
+              <p>AEON Corporate Site</p>
+            </div>
+          </div>
+          <p class="plant"><a href="http://www.aeon.info/en/environment/" target="_blank"><img src="https://www.welcome-aeon.com/img/common/img-plant.gif" alt="Planting Seeds of Growth We are AEON"></a>
+          </p>
+        </div>
+        <div class="footer-container">
+          <div class="footer-inner">
+            <p>Copyright &copy; 2019 AEON Co.,Ltd.All rights reserved.</p>
+            <nav class="foote-menu pc_only">
+              <ul>
+                <li><a href="/storesearch/">Store Finder</a></li>
+                <span class="border"></span>
+                <li><a href="/coupon/">Coupon</a></li>
+                <span class="border"></span>
+                <li><a href="/service/">Service</a></li>
+                <span class="border"></span>
+                <li><a href="https://www.aeon.info/en/aboutaeon/?bannerid=om71_eCSVWTXr&exmid=TUP" target="_blank">Corporate Info</a></li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </footer>
+</body>
+</html>
